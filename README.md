@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```mysql
 conn = pymysql.connect(host='127.0.0.1', user='root', password='798lhh', database='BossDB')
 ```
-|          |                              |                                                              |
+|     字段     |               含义               |                                 更改                             |
 | :----------: | :----------------------------------: | :--------------------------------------------------------------: |
 |  user |           账号             |                   自己数据库账号              |
 |  password |           密码             |                   自己数据库密码              |
